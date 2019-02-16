@@ -4,7 +4,7 @@ Use of 3 paradgims
 - Functional - Scala
 - Procedural - C programming
 
-## Requirenemnts 
+## Requirements 
 - Java EE
 - Apache Tomcat
 - Scala package
@@ -26,8 +26,3 @@ Web application deployed over apache tomcat 7.
 - https://www.tutorialspoint.com
 - http://www.brunton-spall.co.uk
 - http://allaboutscala.com
-
-
-### Contact
-
-[Kartik Deshpande](https://www.linkedin.com/in/kartik-deshpande/)
